@@ -3,8 +3,8 @@
 Plugin Name: NoFollow Link
 Plugin URI: http://alexjose.in
 Description: Add NoFollow attribute to any links in your post on the go.
-Version: 1.0
-Author: Alex Jose (Spikes)
+Version: 1.1
+Author: Alex Jose (Ginger Codes)
 Author URI: http://alexjose.in
 */
  

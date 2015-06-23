@@ -2,8 +2,7 @@
 Contributors: alexjose
 Tags: nofollow, links
 Requires at least: 2.0
-Tested up to: 3.0.3
-Stable tag: 2.3.0
+Tested up to: 4.2.2
 
 NoFollow Link adds a button to the post editor to add nofollow attribute to any links in the post.
 
